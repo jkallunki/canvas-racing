@@ -1,0 +1,8 @@
+body {
+  background: #47634b;
+}
+#wrap {
+  width: 640px;
+  margin: 50px auto;
+  background: transparent url("../img/track.png") no-repeat center center;
+}
